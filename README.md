@@ -2,8 +2,7 @@
 
 # anusha · ianusha08
 
-**AI/ML student · Website builder · DSA grinder**
-
+**AI/ML Student · Open Source Contributor · Frontend Developer** 
 *BTech CSE (AI & ML) · India 🇮🇳 · Actively seeking internships*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushasingh18)
@@ -44,7 +43,7 @@
 
 ---
 
-### stats
+### github stats
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ianusha08&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
