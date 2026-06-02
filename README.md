@@ -2,7 +2,7 @@
 
 # anusha · ianusha08
 
-**AI/ML student · Frontend builder · DSA grinder**
+**AI/ML student · Website builder · DSA grinder**
 
 *BTech CSE (AI & ML) · India 🇮🇳 · Actively seeking internships*
 
