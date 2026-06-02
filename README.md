@@ -3,6 +3,7 @@
 # anusha · ianusha08
 
 **AI/ML Student · Open Source Contributor · Frontend Developer** 
+
 *BTech CSE (AI & ML) · India 🇮🇳 · Actively seeking internships*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushasingh18)
