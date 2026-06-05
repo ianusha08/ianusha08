@@ -51,5 +51,3 @@ AI/ML Student • Open Source Contributor • Open to Internships
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ianusha08&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianusha08&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-)
