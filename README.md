@@ -15,10 +15,11 @@
 
 ### what i'm doing
 
-- building projects at the intersection of **AI and frontend**
-- grinding DSA daily — pushing every solution [here](https://github.com/ianusha08/dsa-practice)
-- exploring **GenAI**, LLMs, and how to build useful things with them
-- looking for internships where I can contribute and grow fast
+• building real-world AI and frontend projects
+• developing SheHeal, a women's health companion platform
+• contributing to open source through GSSoC and GitHub
+• exploring GenAI, LLMs, and practical AI applications
+• actively seeking internship opportunities and industry experience
 
 ---
 
