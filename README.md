@@ -49,7 +49,7 @@ AI/ML Student • Open Source Contributor • Open to Internships
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ianusha08&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianusha08&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ianusha08&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianusha08&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+)
