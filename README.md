@@ -16,7 +16,6 @@ AI/ML Student • Open Source Contributor • Open to Internships
 ### what i'm doing
 
 - building real-world AI and frontend projects
-- developing SheHeal, a women's health companion platform
 - contributing to open source through GSSoC and GitHub
 - exploring GenAI, LLMs, and practical AI applications
 - actively seeking internship opportunities and industry experience
