@@ -52,6 +52,4 @@ AI/ML Student • Open Source Contributor • Open to Internships
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianusha08&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianusha08&theme=tokyonight&hide_border=true"/>
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=ianusha08&theme=tokyonight)
