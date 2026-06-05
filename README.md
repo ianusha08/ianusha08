@@ -40,7 +40,7 @@ AI/ML Student • Open Source Contributor • Open to Internships
 | 🔒 | [Restricted Area Intrusion Detection](https://github.com/ianusha08/restricted-area-intrusion-detection) | React frontend for a real-time surveillance alert system |
 | 🤝 | [Hello Buddy](https://github.com/ianusha08/HB) | Mental wellness companion app with mood tracking calendar |
 | 🎧 | [Helpdesk UI](https://github.com/ianusha08/helpdesk-ui) | Clean support desk interface built in TypeScript |
-| 🧠 | [DSA Practice](https://github.com/ianusha08/dsa-practice) | Daily problem solving — 1 commit a day, no excuses |
+| 🌸 | SheHeal | Women's health companion for cycle tracking, hormonal health, and wellness management |
 
 ---
 
