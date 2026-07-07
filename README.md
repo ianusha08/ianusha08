@@ -23,20 +23,7 @@ AI • Full-Stack • Open Source
 
 ### tech
 
-### Languages
-Python • TypeScript • JavaScript
-
-### Frontend
-React • Tailwind CSS
-
-### Backend
-Node.js • FastAPI
-
-### Database
-MySQL
-
-### Tools
-Git • GitHub • VS Code • Figma
+Python • TypeScript • React • Next.js • Node.js • FastAPI • Tailwind CSS • MySQL
 ---
 
 ### projects
