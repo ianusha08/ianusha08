@@ -2,7 +2,7 @@
 
 # anusha · ianusha08
 
-building AI-powered tools and web applications
+shipping ai projects, open source contributions, and full-stack apps.
 
 AI/ML Student • Open Source Contributor • Open to Internships
 
