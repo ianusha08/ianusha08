@@ -18,8 +18,7 @@ AI/ML Student • Open Source Contributor • Open to Internships
 - building real-world AI and frontend projects
 - contributing to open source through GSSoC and GitHub
 - exploring GenAI, LLMs, and practical AI applications
-- actively seeking internship opportunities and industry experience
-
+- currently looking for software engineering & ai internships
 ---
 
 ### tech
