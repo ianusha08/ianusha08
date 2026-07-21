@@ -43,7 +43,6 @@ AI • Full-Stack • Open Source
 | 🔒 | [Restricted Area Intrusion Detection](https://github.com/ianusha08/restricted-area-intrusion-detection) | React frontend for a real-time surveillance alert system |
 | 🤝 | [Hello Buddy](https://github.com/ianusha08/HB) | Mental wellness companion app with mood tracking calendar |
 | 🎧 | [Helpdesk UI](https://github.com/ianusha08/helpdesk-ui) | Clean support desk interface built in TypeScript |
-| 🌸 | [SheHeal](https://github.com/ianusha08/she-heal) | Women's health companion and wellness management |
 ---
 
 ### github stats
