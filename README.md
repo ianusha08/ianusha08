@@ -50,7 +50,4 @@ AI • Full-Stack • Open Source
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ianusha08&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ianusha08&theme=tokyonight&hide_border=true" />
-</div>
+</div> 
