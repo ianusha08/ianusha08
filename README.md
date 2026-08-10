@@ -40,7 +40,7 @@ AI • Full-Stack • Open Source
 
 | | project | what it is |
 |---|---------|------------|
-| 🔒 | [Restricted Area Intrusion Detection](https://github.com/ianusha08/restricted-area-intrusion-detection) | React frontend for a real-time surveillance alert system |
+| 🔒 | [Voice AI Agent](https://github.com/ianusha08/murf-livekit-starter) | AI Agent For Learning and Litreacy Track|
 | 🤝 | [Hello Buddy](https://github.com/ianusha08/HB) | Mental wellness companion app with mood tracking calendar |
 | 🎧 | [Helpdesk UI](https://github.com/ianusha08/helpdesk-ui) | Clean support desk interface built in TypeScript |
 ---
