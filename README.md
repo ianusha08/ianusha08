@@ -15,11 +15,10 @@ AI/ML • Full-Stack • Open Source
 
 ### what i'm doing
 
-- building real-world AI and frontend projects
-- contributing to open source through GSSoC and GitHub
+- building real-world AI and full-stack projects
+- contributing to open source through GSSoC
 - exploring GenAI, LLMs, and practical AI applications
-- currently looking for internships
-
+- actively seeking AI/ML internships
 ---
 
 ### tech
