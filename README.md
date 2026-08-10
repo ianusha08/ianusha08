@@ -18,7 +18,8 @@ AI/ML • Full-Stack • Open Source
 - building real-world AI and frontend projects
 - contributing to open source through GSSoC and GitHub
 - exploring GenAI, LLMs, and practical AI applications
-- currently looking for software engineering & ai internships
+- currently looking for internships
+
 ---
 
 ### tech
@@ -40,7 +41,7 @@ AI/ML • Full-Stack • Open Source
 
 | | project | what it is |
 |---|---------|------------|
-| 🔒 | [Voice AI Agent](https://github.com/ianusha08/murf-livekit-starter) | AI Agent For Learning and Literacy Track|
+| 🔒 | [Voice AI Agent](https://github.com/ianusha08/murf-livekit-starter) | AI agent for learning and literacy |
 | 🤝 | [Hello Buddy](https://github.com/ianusha08/HB) | Mental wellness companion app with mood tracking calendar |
 | 🎧 | [Helpdesk UI](https://github.com/ianusha08/helpdesk-ui) | Clean support desk interface built in TypeScript |
 ---
