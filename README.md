@@ -48,5 +48,7 @@ AI • Full-Stack • Open Source
 ### github stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ianusha08&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-</div> 
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ianusha08&theme=github-compact&hide_border=true" width="100%"/>
+
+</div>
