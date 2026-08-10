@@ -40,7 +40,7 @@ AI • Full-Stack • Open Source
 
 | | project | what it is |
 |---|---------|------------|
-| 🔒 | [Voice AI Agent](https://github.com/ianusha08/murf-livekit-starter) | AI Agent For Learning and Litreacy Track|
+| 🔒 | [Voice AI Agent](https://github.com/ianusha08/murf-livekit-starter) | AI Agent For Learning and Literacy Track|
 | 🤝 | [Hello Buddy](https://github.com/ianusha08/HB) | Mental wellness companion app with mood tracking calendar |
 | 🎧 | [Helpdesk UI](https://github.com/ianusha08/helpdesk-ui) | Clean support desk interface built in TypeScript |
 ---
