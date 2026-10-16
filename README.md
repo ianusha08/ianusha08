@@ -45,10 +45,10 @@ AI/ML • Full-Stack • Open Source
 | 🎧 | [Helpdesk UI](https://github.com/ianusha08/helpdesk-ui) | Clean support desk interface built in TypeScript |
 ---
 
-### github stats
+
+<h3 align="center">GitHub Stats</h3>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ianusha08&theme=github-compact&hide_border=true" width="100%"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ianusha08&show_icons=true&theme=github_dark&hide_border=true" width="100%" />
 </div>
+
