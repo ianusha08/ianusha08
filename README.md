@@ -46,9 +46,8 @@ AI/ML • Full-Stack • Open Source
 ---
 
 
-<h3 align="center">GitHub Stats</h3>
+### github stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ianusha08&show_icons=true&theme=github_dark&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ianusha08&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
-
