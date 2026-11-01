@@ -6,7 +6,7 @@ shipping ai projects, open source contributions, and full-stack apps.
 
 AI/ML • Full-Stack • Open Source
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-anushax.vercel.app-ff69b4?style=flat&logo=vercel&logoColor=white)](https://anushax.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=flat)](https://anushax.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushasingh18)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/imanusha09)
 
